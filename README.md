@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm KEVIN, a FE developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm KEVIN, a Software Dev 👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 I’m working on [I.D.E]()  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Everything!  
   
 
-- ❓ Ask me about anything related to Technologies... and Programming Industry!  
+- ❓ Don't ask me about anything related to Technologies... and Programming Industry!  
   
 
 <br/>  
@@ -20,8 +20,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -41,12 +39,10 @@
 <br/>  
 
 ## GitHub Stats 📈
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAdiwiguna&layout=compact&theme=radical)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&theme=radical)
-
-
-
+</div>
 
 ## Connect with me  
 <div align="center">
