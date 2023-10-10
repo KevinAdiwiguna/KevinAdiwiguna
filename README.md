@@ -38,6 +38,21 @@
 
 <br/>  
 
+
+
+## GitHub Stats 📈
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAdiwiguna&layout=compact&theme=radical)
+</div>
+
+<div align='center'>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&theme=radical)
+</div>
+
+<br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/KevinAdiwiguna" target="_blank">
@@ -57,21 +72,6 @@
 
 
 
-<br/>
-
-
-## GitHub Stats 📈
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAdiwiguna&layout=compact&theme=radical)
-</div>
-
-<div align='center'>
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&theme=radical)
-</div>
-
-<br/>  
 
 ## Recent Blog Posts  
 
