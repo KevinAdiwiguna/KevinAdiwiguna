@@ -61,9 +61,12 @@
 
 
 ## GitHub Stats 📈
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAdiwiguna&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&theme=radical)
+</div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&theme=radical)
 <br/>  
 
 ## Recent Blog Posts  
