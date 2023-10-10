@@ -70,6 +70,16 @@
 <br/>  
 
 
+## GitHub Stats 📈
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAdiwiguna&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&theme=radical)
+
+
+
+<br/>
+
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
