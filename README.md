@@ -40,9 +40,12 @@
 
 ## GitHub Stats 📈
 <div align="center">
+  
+[![GitHub: pasyabill](https://img.shields.io/github/followers/KevinAdiwiguna?label=pasyabill&style=social)](https://github.com/pasyabill)
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KevinAdiwiguna.visitor-badge)
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAdiwiguna&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&theme=radical)
+
 
 ## Connect with me  
 <div align="center">
