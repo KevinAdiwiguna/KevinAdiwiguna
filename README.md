@@ -38,15 +38,6 @@
 
 <br/>  
 
-## GitHub Stats 📈
-<div align="center">
-  
-[![GitHub: pasyabill](https://img.shields.io/github/followers/KevinAdiwiguna?label=pasyabill&style=social)](https://github.com/pasyabill)
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KevinAdiwiguna.visitor-badge)
-</div>
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/KevinAdiwiguna" target="_blank">
@@ -69,14 +60,13 @@
 <br/>
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KevinAdiwiguna&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## GitHub Stats 📈
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pasyabill&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasyabill&show_icons=true&theme=radical)
 
 <br/>  
 
-
 ## Recent Blog Posts  
-  
 
 <br/>  
 
