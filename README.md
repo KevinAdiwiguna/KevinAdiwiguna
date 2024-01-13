@@ -6,7 +6,7 @@
 ### <div align="center">I'm KEVIN, a Software Dev 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m working on [I.D.E]()  
+- 🔭 I’m working on "i need job😥😥"  
   
 
 - 🌱 I’m currently learning Everything!  
