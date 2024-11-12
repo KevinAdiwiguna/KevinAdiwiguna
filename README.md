@@ -1,9 +1,7 @@
 ## Hey 👋, I'm kevinadiwiguna!  
   
 
-https://www.linkedin.com/in/kevinadiwiguna/
-
-<a href="www.linkedin.com/in/kevinadiwiguna/" target="_blank">
+<a href="https://www.linkedin.com/in/kevinadiwiguna/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/KevinAdiwiguna" target="_blank">
